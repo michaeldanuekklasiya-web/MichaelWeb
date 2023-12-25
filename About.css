@@ -104,7 +104,7 @@
 .u-section-1 .u-image-1 {
   width: 213px;
   height: 213px;
-  background-image: url("images/4176.jpg");
+  background-image: url("/images/pp.jpg");
   background-position: 50% 50%;
   margin: -95px auto 0;
 }
@@ -802,7 +802,7 @@
 }
 
 .u-section-3 .u-sheet-1 {
-  min-height: 2627px;
+  min-height: 100px;
 }
 
 .u-section-3 .u-text-1 {
